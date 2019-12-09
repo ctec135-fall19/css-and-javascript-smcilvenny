@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithCSS", "WorkingWithCSS\WorkingWithCSS.csproj", "{DDBEBA9C-F114-4AB0-BA5B-3C563A6B944D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithJavaScript", "WorkingWithJavaScript\WorkingWithJavaScript.csproj", "{DF39271E-AEAD-43D2-ACF5-D3BC2B8370F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDBEBA9C-F114-4AB0-BA5B-3C563A6B944D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBEBA9C-F114-4AB0-BA5B-3C563A6B944D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBEBA9C-F114-4AB0-BA5B-3C563A6B944D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBEBA9C-F114-4AB0-BA5B-3C563A6B944D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF39271E-AEAD-43D2-ACF5-D3BC2B8370F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF39271E-AEAD-43D2-ACF5-D3BC2B8370F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF39271E-AEAD-43D2-ACF5-D3BC2B8370F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF39271E-AEAD-43D2-ACF5-D3BC2B8370F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2A2D08E-7AD0-41B4-AF8F-FCAD1BA81533}
+	EndGlobalSection
+EndGlobal
