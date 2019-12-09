@@ -23,7 +23,7 @@ namespace SessionState
         }
         protected void Button1_Click(object sender, EventArgs e)
         {
-            Session.Remove("Name");
+            Session.Remove("Name"); 
             Response.Redirect("WebForm1.aspx");
         }
     }
